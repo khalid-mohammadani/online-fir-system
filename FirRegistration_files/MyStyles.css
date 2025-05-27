@@ -1,0 +1,69 @@
+.myFields {
+	BORDER-BOTTOM: #9999cc 1px solid; BORDER-LEFT: #9999cc 1px solid; FONT-FAMILY: Verdana; COLOR: #333333; FONT-SIZE: 13px; BORDER-TOP: #9999cc 1px solid; BORDER-RIGHT: #ffffff
+}
+.arialText {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.gtitle {
+	FONT-FAMILY: Verdana; COLOR: #669900; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.titblue {
+	FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; COLOR: #0066cc; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.MainLinks {
+	FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.tbBrdrd {
+	BORDER-BOTTOM: #e3f1ad 1px solid; BORDER-LEFT: 1px solid; BORDER-RIGHT: 1px solid
+}
+.myLinks {
+	FONT-FAMILY: Tahoma; COLOR: #ffffff; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.sideLinks {
+	FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.sideLinks:hover {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+.orangeLinks {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: black; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.whiteText {
+	FONT-FAMILY: Tahoma; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.greenText {
+	PADDING-LEFT: 5px; FONT-FAMILY: Tahoma; COLOR: #669900; FONT-SIZE: 11px
+}
+.blackBoldTxt {
+	TEXT-ALIGN: justify; PADDING-LEFT: 5px; FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.blackBoldSubHeading {
+	TEXT-ALIGN: justify; FONT-STYLE: italic; FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.myText {
+	TEXT-ALIGN: justify; PADDING-LEFT: 5px; FONT-FAMILY: Courier New; COLOR: #000000; FONT-SIZE: 12px
+}
+.lnkTxt {
+	FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 11px
+}
+.lightBlueSquare {
+	BORDER-BOTTOM: #a3b2cc 1px solid; BORDER-LEFT: #a3b2cc 1px solid; BORDER-TOP: #a3b2cc 1px solid; BORDER-RIGHT: #a3b2cc 1px solid
+}
+.grayText {
+	FONT-FAMILY: Tahoma; COLOR: #333333; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.blueHeadings {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000099; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.blueText {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #6699ff; FONT-SIZE: 11px
+}
+.headingsBig {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.shortlink {
+	FONT-FAMILY: Book Antiqua; COLOR: #000000; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.intro {
+	FONT-FAMILY: "Courier New", Courier, monospace; COLOR: #000000; FONT-SIZE: 1px; TEXT-DECORATION: none
+}

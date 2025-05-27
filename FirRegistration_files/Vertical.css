@@ -1,0 +1,180 @@
+HTML {
+	HEIGHT: 100%
+}
+FORM {
+	HEIGHT: 100%
+}
+.body {
+	BACKGROUND-COLOR: #596e9e; MARGIN: 0px; HEIGHT: 100%
+}
+.master {
+	BACKGROUND-COLOR: #ffffff; WIDTH: 950px; HEIGHT: 100%; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.masterContent {
+	BACKGROUND-COLOR: #ffffff
+}
+.shadowRight {
+	BACKGROUND-IMAGE: url(../../images/bl_Shadow_Right.jpg); MIN-HEIGHT: 100%; WIDTH: 12px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: left top
+}
+.shadowLeft {
+	BACKGROUND-IMAGE: url(../../images/bl_Shadow_Left.jpg); MIN-HEIGHT: 100%; WIDTH: 12px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: left top
+}
+.spacer {
+	WIDTH: 12px
+}
+.breadcrumb {
+	BORDER-BOTTOM: #cccccc 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 7px; FONT-FAMILY: tahoma; MARGIN-BOTTOM: 4px; COLOR: #656b77; CLEAR: both; FONT-SIZE: 9pt; PADDING-TOP: 4px
+}
+.breadcrumb A {
+	PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #656b77; TEXT-DECORATION: none
+}
+.breadcrumb:active {
+	PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #656b77; TEXT-DECORATION: none
+}
+.breadcrumb A:active {
+	PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #656b77; TEXT-DECORATION: none
+}
+.breadcrumb A:hover {
+	TEXT-DECORATION: underline
+}
+.breadcrumbCurrent {
+	FONT-WEIGHT: bold
+}
+.login {
+	DISPLAY: inline
+}
+.login A:hover {
+	TEXT-DECORATION: underline
+}
+.sharepointLogin {
+	DISPLAY: inline; FLOAT: right
+}
+.sharepointLogin .ms-globallinks {
+	POSITION: relative
+}
+.topArea {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BACKGROUND: url(../../images/bl_band.jpg) no-repeat right top
+}
+.topArea :active {
+	TEXT-DECORATION: none
+}
+.logo {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 4px; PADDING-RIGHT: 0px; FONT-FAMILY: tahoma; FLOAT: left; HEIGHT: 42px; FONT-SIZE: 14pt; PADDING-TOP: 3px
+}
+.logo A {
+	BACKGROUND-IMAGE: url(../../images/bl_logo.jpg); PADDING-BOTTOM: 0px; PADDING-LEFT: 75px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #656b77; PADDING-TOP: 15px
+}
+.topLinkBar {
+	PADDING-LEFT: 1px; WIDTH: auto; PADDING-RIGHT: 7px; DISPLAY: inline; FLOAT: right
+}
+.topLinkBar A {
+	FONT-FAMILY: tahoma; COLOR: #444444; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.toplinkbar A:active {
+	FONT-FAMILY: tahoma; COLOR: #444444; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.topLinkBar A:hover {
+	TEXT-DECORATION: underline
+}
+.topLink {
+	DISPLAY: inline; BACKGROUND: url(../../Images/linksdivider.gif) no-repeat right 6px
+}
+.console {
+	CLEAR: both
+}
+.search {
+	MARGIN: 6px 2px 5px
+}
+.search .ms-sbcell .ms-sbplain {
+	BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 1px solid; HEIGHT: 14px; MARGIN-LEFT: 2px; BORDER-TOP: #555555 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #555555 1px solid
+}
+.search .ms-sbcell {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #3a4663; FONT-SIZE: 8pt; BORDER-TOP: medium none; FONT-WEIGHT: normal; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.search .ms-sbgo {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.siteActionMenu {
+	FLOAT: right
+}
+.authoringRegion {
+	BACKGROUND-COLOR: #dddddd; WIDTH: 100%; COLOR: #333333
+}
+topBorder {
+	WIDTH: 100%; HEIGHT: 1px; BORDER-TOP: #cbd1e0 1px solid
+}
+.leftNav {
+	BORDER-BOTTOM: #8997bc 1px solid; BORDER-LEFT: #8997bc 1px solid; BACKGROUND-COLOR: #d0d6e3; MARGIN-TOP: 4px; WIDTH: 160px; MARGIN-LEFT: 7px; BORDER-TOP: #8997bc 1px solid; MARGIN-RIGHT: 15px; BORDER-RIGHT: #8997bc 1px solid; PADDING-TOP: 0px
+}
+.leftNavSpacer {
+	WIDTH: 160px
+}
+.leftNavSelected {
+	BORDER-BOTTOM: #f4f5ff 1px solid; LINE-HEIGHT: 14pt; BACKGROUND-COLOR: #b2bcd3; COLOR: #f4f5f9; BORDER-TOP: #f4f5ff 1px solid
+}
+.leftNav1 {
+	COLOR: #354260
+}
+.leftNav2 {
+	COLOR: #354260
+}
+.leftNav3 {
+	COLOR: #354260
+}
+.leftNav1 {
+	LINE-HEIGHT: 14pt; FONT-FAMILY: tahoma; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.leftNav1 A {
+	PADDING-LEFT: 5px; PADDING-RIGHT: 10px; DISPLAY: block; FONT-FAMILY: tahoma; FONT-SIZE: 9pt; FONT-WEIGHT: bold
+}
+.leftNav2 {
+	LINE-HEIGHT: 14pt; FONT-FAMILY: tahoma; FONT-SIZE: 8pt
+}
+.leftNav2 A {
+	PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block
+}
+.leftNav3 {
+	LINE-HEIGHT: 14pt; FONT-FAMILY: tahoma; FONT-SIZE: 8pt
+}
+.leftNav3 A {
+	PADDING-LEFT: 18px; PADDING-RIGHT: 10px; DISPLAY: block
+}
+.leftNavHover {
+	BACKGROUND-COLOR: #596e9e; COLOR: #ffffff
+}
+.leftNavFlyOuts {
+	BORDER-LEFT: #cbd1e0 1px solid; FONT-FAMILY: Tahoma; FONT-SIZE: 8pt; BORDER-TOP: #cbd1e0 1px solid; BORDER-RIGHT: #cbd1e0 1px solid
+}
+.leftNavFlyOutsItem {
+	BORDER-BOTTOM: #cbd1e0 1px solid; BACKGROUND-COLOR: #eceff3
+}
+.leftNavFlyOutsItem A {
+	MIN-WIDTH: 100px; PADDING-BOTTOM: 1px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #354260; PADDING-TOP: 1px
+}
+.leftNavFlyOutsHover {
+	BACKGROUND-COLOR: #b2bcd3
+}
+.pageTitle {
+	MARGIN: 0px; FONT-FAMILY: tahoma; COLOR: #666666; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.pageTitle SPAN {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.mainContainer {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.bottomLinkBar {
+	FONT-FAMILY: tahoma; FLOAT: none; COLOR: #999999; FONT-SIZE: 8pt
+}
+.mainContent DIV.ms-pagebreadcrumb {
+	DISPLAY: none
+}
+.mainContent TD.ms-pagebreadcrumb {
+	DISPLAY: none
+}
+DIV.ms-wikieditouter {
+	BORDER-BOTTOM: #6393d4 1px solid; POSITION: static; BORDER-RIGHT-WIDTH: 1px; MARGIN-BOTTOM: 8px; MARGIN-RIGHT: 5px
+}
+DIV.ms-quicklaunchouter {
+	BORDER-RIGHT-WIDTH: 0px; MARGIN-TOP: 5px; WIDTH: 158px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-LEFT: 7px; BORDER-LEFT-WIDTH: 0px
+}

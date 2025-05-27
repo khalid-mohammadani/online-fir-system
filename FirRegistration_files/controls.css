@@ -1,0 +1,312 @@
+.slm-dragdrop-source {
+	BEHAVIOR: url(/_layouts/1033/cmsslwpdragdropsource.htc)
+}
+.slm-layout-main {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.slm-edit-ecb {
+	WIDTH: 40px
+}
+.slm-edit-ecb DIV {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 0px; HEIGHT: 23px; VERTICAL-ALIGN: middle; PADDING-TOP: 2px
+}
+.slm-edit-link {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 1px
+}
+.slm-display-link {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+.presence-status-icon {
+	PADDING-LEFT: 0px; WIDTH: 12px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 12px; PADDING-TOP: 1px
+}
+.wp-content {
+	MARGIN: 6px 0px 6px 4px
+}
+.cbq-layout-main {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.toc-layout-main {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.item {
+	MARGIN: 6px 0px 6px 4px; CLEAR: both
+}
+.centered {
+	TEXT-ALIGN: center
+}
+.link-item {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt; TEXT-DECORATION: none
+}
+.link-item A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt; TEXT-DECORATION: none
+}
+.link-item A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt; TEXT-DECORATION: none
+}
+.link-item A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.link-item A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.link-item A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.link-item-large {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 18pt; TEXT-DECORATION: none
+}
+.link-item-large A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 18pt; TEXT-DECORATION: none
+}
+.link-item-large A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 18pt; TEXT-DECORATION: none
+}
+.link-item-large A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.link-item-large A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.link-item-large A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.description {
+	FONT-FAMILY: tahoma; COLOR: #4c4c4c; FONT-SIZE: 8pt
+}
+.image-area-left {
+	PADDING-LEFT: 0px; PADDING-RIGHT: 5px; FLOAT: left
+}
+.image-area-right {
+	PADDING-LEFT: 5px; PADDING-RIGHT: 0px; FLOAT: right; VERTICAL-ALIGN: top
+}
+.image-area-top {
+	PADDING-BOTTOM: 5px
+}
+.image {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+.image-fixed-width {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; WIDTH: 90px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+.bullet {
+	BACKGROUND-IMAGE: url(/_layouts/images/lstbulet.gif); BORDER-BOTTOM: ; BORDER-LEFT: ; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left 50%; VERTICAL-ALIGN: top; BORDER-TOP: ; BORDER-RIGHT: 
+}
+.groupheader {
+	TEXT-ALIGN: left; FONT-FAMILY: tahoma; MARGIN-BOTTOM: 5px; COLOR: #000000; CLEAR: both; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.band {
+	PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #e4e8f0; PADDING-LEFT: 3px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.large {
+	FONT-SIZE: 18pt
+}
+.small {
+	FONT-SIZE: 8pt
+}
+.medium {
+	FONT-SIZE: 10pt
+}
+.centered {
+	TEXT-ALIGN: center
+}
+.separator {
+	BORDER-BOTTOM: #333333 1px solid; BORDER-LEFT: #333333 1px solid; CLEAR: both; BORDER-TOP: #333333 1px solid; BORDER-RIGHT: #333333 1px solid
+}
+.whitespace {
+	MARGIN-BOTTOM: 5px; CLEAR: both
+}
+.level-header {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.level-band {
+	PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #e4e8f0; PADDING-LEFT: 3px; PADDING-RIGHT: 0px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 3px; PADDING-TOP: 2px
+}
+.level-description {
+	FONT-FAMILY: tahoma; COLOR: #4c4c4c; FONT-SIZE: 8pt
+}
+.level-description-padding {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px
+}
+.level-item-pos {
+	PADDING-BOTTOM: 1px; MARGIN: 2px 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 1px
+}
+.level-item {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt
+}
+.level-item A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt
+}
+.level-item A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt
+}
+.level-item A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.level-item A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.level-item A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.level-section {
+	MARGIN-BOTTOM: 6px
+}
+.level-bullet {
+	BACKGROUND-IMAGE: url(/_layouts/images/lstbulet.gif); BORDER-BOTTOM: ; BORDER-LEFT: ; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left 50%; VERTICAL-ALIGN: top; BORDER-TOP: ; BORDER-RIGHT: 
+}
+.headertitle {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.headertitle A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.headertitle A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.headertitle A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.headertitle-large {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.headertitle-large A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.headertitle-large A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.headertitle-large A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle-large A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle-large A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.headertitle-small {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.headertitle-small A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.headertitle-small A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.headertitle-small A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle-small A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle-small A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.headertitle-band {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.headertitle-band A {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.headertitle-band A:link {
+	FONT-FAMILY: tahoma; COLOR: #003399; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.headertitle-band A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle-band A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.headertitle-band A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.cqfeed {
+	TEXT-ALIGN: right
+}
+.ms-slDlg-BodyContainer {
+	WIDTH: 100%; HEIGHT: 100%
+}
+.ms-slDlg-FieldLabel {
+	PADDING-BOTTOM: 2px; PADDING-TOP: 10px
+}
+.ms-slDlg-IndentedFieldLabel {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-TOP: 5px
+}
+.ms-slDlg-FieldDescription {
+	COLOR: gray
+}
+.ms-slDlg-BrowseButton {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 5px
+}
+.ms-slLinkDlg-InputField {
+	WIDTH: 275px
+}
+.ms-slLinkDlg-FirstPanel {
+	TEXT-ALIGN: left; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; PADDING-TOP: 10px
+}
+.ms-slLinkDlg-Panel {
+	TEXT-ALIGN: left; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.ms-slLinkDlg-PeoplePanel {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #d6e8ff; MARGIN-TOP: 5px; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.ms-slDlg-ActionText {
+	PADDING-LEFT: 5px
+}
+.ms-slDlg-ActionText A {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.ms-slDlg-ActionText A:visited {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.ms-slDlg-ActionText A:active {
+	COLOR: #4167af; TEXT-DECORATION: none
+}
+.ms-slDlg-ActionText A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.ms-slGroupDlg-InputField {
+	WIDTH: 362px
+}
+.ms-slGroupDlg-Panel {
+	TEXT-ALIGN: left; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; PADDING-TOP: 5px
+}
+.ms-slViewDlg-InputField {
+	WIDTH: 362px
+}
+.ms-slViewDlg-Panel {
+	TEXT-ALIGN: left; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; PADDING-TOP: 5px
+}
+.ms-slViewDlg-FirstPanel {
+	TEXT-ALIGN: left; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; PADDING-TOP: 20px
+}
+.ms-slSortDlg-Panel {
+	TEXT-ALIGN: left; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.listItem DIV.callOut A {
+	FONT: bold 12.5pt/16pt arial, helvetica, sans-serif; COLOR: #ffffff
+}
+.title-With-Background {
+	PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #83b0ec; MARGIN-TOP: 5px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; PADDING-TOP: 4px
+}
+DIV.title-With-Background A {
+	FONT: bold 12.5pt/16pt arial, helvetica, sans-serif; COLOR: #ffffff
+}
+DIV.title-With-Background A:link {
+	FONT: bold 12.5pt/16pt arial, helvetica, sans-serif; COLOR: #ffffff
+}
+DIV.title-With-Background A:hover {
+	FONT: bold 12.5pt/16pt arial, helvetica, sans-serif; COLOR: #ffffff
+}
+DIV.title-With-Background A:visited {
+	FONT: bold 12.5pt/16pt arial, helvetica, sans-serif; COLOR: #ffffff
+}
+DIV.title-With-Background A:active {
+	FONT: bold 12.5pt/16pt arial, helvetica, sans-serif; COLOR: #ffffff
+}
