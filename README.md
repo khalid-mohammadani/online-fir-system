@@ -14,4 +14,4 @@ This project was developed in **2010–2011** as a final-year academic project a
 ## Credits
 - Student Team (2K8/SWE series)
 - Supervised by Madam Lubna Mustafa
-- Web system supported and developed by Khalid Hussain
+- Web system supported and developed by Khalid Hussain 
